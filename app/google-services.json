@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "240590145980",
+    "firebase_url": "https://lab7naim.firebaseio.com",
+    "project_id": "lab7naim",
+    "storage_bucket": "lab7naim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240590145980:android:fe229857ea765d34",
+        "android_client_info": {
+          "package_name": "my.edu.uitm.app1.lab7naim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240590145980-rg330bucj89i019af4fgeto3gc12kshb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "my.edu.uitm.app1.lab7naim",
+            "certificate_hash": "4e77988bc101eab2db54ee6037c0e7fafe5a4528"
+          }
+        },
+        {
+          "client_id": "240590145980-nrodfl8i4us7c136eveadjudm42edvdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnEcBsmTcKgaUYmpMpV5xAyasXDz0tcJ8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240590145980-nrodfl8i4us7c136eveadjudm42edvdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
